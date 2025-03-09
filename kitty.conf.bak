@@ -4,13 +4,9 @@ map mod+drag left mouse move_window
 map mod+drag middle mouse resize_window
 corner_radius 30
 window_padding_width 10
-<<<<<<< HEAD
-font_family firacode
-=======
 
 
 # BEGIN_KITTY_THEME
-# Material
+# Borland
 include current-theme.conf
 # END_KITTY_THEME
->>>>>>> 7fc2b58 (Removed old theme, add default theme)
